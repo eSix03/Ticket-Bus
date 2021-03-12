@@ -40,7 +40,7 @@ date_default_timezone_set("America/Guayaquil");
             ?>
         </select><br/>
 
-        <label for="dateofJourney" class="required">Fecha</label>
+        <label for="dateofJourney" class="required">FechaSOLO DUO XDD</label>
         <input  style="width:110px;" name="dateOfJourney" id="dateOfJourney" type="text" class="datepicker_bus_date" data-validation="required" value="<?php echo date("Y-m-d"); ?>"><br />
         <label ></label>
         <input style="margin:5px 5px 0;" type="submit" name="searchBuses" id="searchBuses" value="Search Buses">	
